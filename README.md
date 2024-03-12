@@ -12,8 +12,10 @@ Eu sou a Danusa Rodrigues, sou estudante de programação,curso de FULL STACK na
    Estou iniciando o aprendizado de  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100px"/> e <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="70px"/>.
 
 
-Passei pela area da saúde ,Tecnológo em Radiologia, no Centro Universitário Arthur Sá Earp Neto/Faculdade de Medicina de Petrópolis-RJ - UNIFASE/FMP.
-Tenho apreciado meu tempo em programação , estou nessa transição de carreira que me permita crescer tanto a nível profissional como pessoal.
+Passei pela area da saúde ,Tecnológo em Radiologia, no Centro Universitário Arthur Sá Earp Neto/Faculdade de Medicina de Petrópolis-RJ - UNIFASE/FMP. 
+<a href="https://www.unifase-rj.edu.br/unifase">  <img src="https://irp.cdn-website.com/8a247924/dms3rep/multi/logo_Padr%C3%A3o_horizontal_sem_assinatura.svg" width="80px"/> </a>
+<br>
+Tenho apreciado meu tempo em programação ,estou nessa transição de carreira que me permita crescer tanto a nível profissional como pessoal.
 <br>
 <br>
 
