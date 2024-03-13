@@ -20,7 +20,9 @@ Tenho apreciado meu tempo em programação ,estou nessa transição de carreira 
 <br>
 
 [![Danusa Rodrigues stats](https://github-readme-stats.vercel.app/api?username=danusaRodrigues)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danusarodrigues)](https://github.com/anuraghazra/github-readme-status)
 <br>
 <br>
 
